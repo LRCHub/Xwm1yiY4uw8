@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "迷彩",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-02-07T11:59:13.754538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "迷彩 - 第一回林檎班大会の模様 '05",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/01_迷彩_-_第一回林檎班大会の模様_'05_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_迷彩_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_迷彩_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/04_迷彩_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "迷彩~戦後最大級ノ暴風雨圏内歌唱~",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/05_迷彩~戦後最大級ノ暴風雨圏内歌唱~_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "Shiina, Ringo×Saito, Neko",
+      "has_synced": true,
+      "path": "select/06_迷彩_Shiina,_Ringo×Saito,_Neko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "迷彩 - 戦後最大級ノ暴風雨圏内歌唱",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/07_迷彩_-_戦後最大級ノ暴風雨圏内歌唱_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "Sheena Ringo×Saito Neko",
+      "has_synced": true,
+      "path": "select/08_迷彩_Sheena_Ringo×Saito_Neko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "迷彩 (戦後最大級ノ暴風雨圏内歌唱)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/09_迷彩_(戦後最大級ノ暴風雨圏内歌唱)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "Sadie",
+      "has_synced": false,
+      "path": "select/10_迷彩_Sadie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "迷彩 (Album Version)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/11_迷彩_(Album_Version)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "迷彩 (第一回林檎班大会の模様 '05)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/12_迷彩_(第一回林檎班大会の模様_'05)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "迷彩~戦後最大級ノ暴風雨圏内歌唱~",
+      "artist": "Ringo Shiina",
+      "has_synced": false,
+      "path": "select/13_迷彩~戦後最大級ノ暴風雨圏内歌唱~_Ringo_Shiina.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "Ringo Shiina",
+      "has_synced": true,
+      "path": "select/14_迷彩_Ringo_Shiina.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "迷彩 - 戦後最大級ノ暴風雨圏内歌唱",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/15_迷彩_-_戦後最大級ノ暴風雨圏内歌唱_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/16_迷彩_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "迷彩",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/17_迷彩_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "迷彩 - 戦後最大級ノ暴風雨圏内歌唱",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/18_迷彩_-_戦後最大級ノ暴風雨圏内歌唱_椎名林檎.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "迷彩",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_迷彩_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "迷彩",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_迷彩_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "迷彩",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_迷彩_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "迷彩",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_迷彩_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "迷彩",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_迷彩_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "迷彩 ～戦後最大級ノ暴風雨圏内歌唱～",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_06_迷彩_~戦後最大級ノ暴風雨圏内歌唱~_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "迷彩 - 戦後最大級ノ暴風雨圏内歌唱",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_07_迷彩_-_戦後最大級ノ暴風雨圏内歌唱_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "迷彩 ～戦後最大級ノ暴風雨圏内歌唱～",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_08_迷彩_~戦後最大級ノ暴風雨圏内歌唱~_椎名_林檎.txt"
+    }
+  ]
+}
